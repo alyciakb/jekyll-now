@@ -25,7 +25,7 @@ If you "reject the null hypothesis" then you are saying that YES something has c
 ### **But why do we care about the difference between them?**
 
 <p style="text-align:center"><img src="https://media.giphy.com/media/anB3cor0tgFX2/giphy.gif" width="250"/></p>
-<p style="text-align:center"><a href="https://media.giphy.com/media/anB3cor0tgFX2/giphy.gif" Source: giphy.com</a></p>
+<p style="text-align:center; font-size:10px;"><a href="https://media.giphy.com/media/anB3cor0tgFX2/giphy.gif"> Source: giphy.com</a></p>
 
 *In both cases a mistake has been made, why does it matter what type of mistake it is?*
 
