@@ -25,7 +25,7 @@ If you "reject the null hypothesis" then you are saying that YES something has c
 ### **But why do we care about the difference between them?**
 
 <p style="text-align:center"><img src="https://media.giphy.com/media/anB3cor0tgFX2/giphy.gif" width="250"/></p>
-<p style="text-align:center; font-size:10px"><a href="https://media.giphy.com/media/anB3cor0tgFX2/giphy.gif">SOURCE: GIPHY.COM</a></p>
+<p style="text-align:center; font-size:10px;"><a href="https://media.giphy.com/media/anB3cor0tgFX2/giphy.gif"> SOURCE: GIPHY.COM</a></p>
 
 *In both cases a mistake has been made, why does it matter what type of mistake it is?*
 
@@ -41,11 +41,13 @@ In this situation, scenario #2 is a false negative and it is more serious to com
 
 **This is why the type of error matters.** When you are doing hypothesis testing you can control how certain you need to be in your testing before you accept that something has changed (reject the null hypothesis). For something like cancer, you want your doctor to be VERY certain that you do NOT have cancer before they tell you that you don't. In this situation, doctors can set up their initial tests so it is easier to reject the null hypothesis, meaning it is easier to say "hmmm, you might have cancer, more testing needs to be done".
 
-In other situations, you might want to make it more difficult to reject the null hypothesis. This is the case in the judicial system. We've all heard the saying "innocent until proven guilty". In terms of hypothesis testing, we have:
+In other situations, you might want to make it more difficult to reject the null hypothesis. This is the case in the judicial system. We've all heard the saying *"innocent until proven guilty".* In terms of hypothesis testing, we have:
 
 * **Null Hypothesis:** Innocent/Not Guilty
 * **Alternative Hypothesis:** Guilty
 
-The judicial system has decided that it is worse put an innocent person behind bars (false positive) than it is to let a guilty person walk free (false negative). This is why, in a criminal case, a guilty verdict can only occur if the jury unanimously agrees that someone is guilty "beyond a reasonable doubt". The courts do this to try to prevent a false positive from occuring and to prevent sending an innocent person to jail.
+The judicial system has decided that it is worse put an innocent person behind bars (false positive) than it is to let a guilty person walk free (false negative). This is why, in a criminal case, a guilty verdict can only occur if the jury unanimously agrees that someone is guilty *"beyond a reasonable doubt".* The courts do this to try to prevent a false positive from occurring and to prevent sending an innocent person to jail.
 
 As you can see there are important distinctions between a false positive and a false negative. Which one is a worse error depends on the situation. When you are doing the hypothesis testing, you can look at which error type is worse and plan for it. You can decide how much certainty your testing needs in order to accept or reject the null hypothesis, and doing this can help decrease the chance of getting either a false positive or a false negative.
+
+
