@@ -25,7 +25,7 @@ If you "reject the null hypothesis" then you are saying that YES something has c
 ### **But why do we care about the difference between them?**
 
 <p style="text-align:center"><img src="https://media.giphy.com/media/anB3cor0tgFX2/giphy.gif" width="250"/></p>
-<p style="text-align:center; font-size:10px;"><a href="https://media.giphy.com/media/anB3cor0tgFX2/giphy.gif"> Source: giphy.com</a></p>
+<p style="text-align:center; font-size:10px"><a href="https://media.giphy.com/media/anB3cor0tgFX2/giphy.gif">SOURCE: GIPHY.COM</a></p>
 
 *In both cases a mistake has been made, why does it matter what type of mistake it is?*
 
@@ -49,5 +49,3 @@ In other situations, you might want to make it more difficult to reject the null
 The judicial system has decided that it is worse put an innocent person behind bars (false positive) than it is to let a guilty person walk free (false negative). This is why, in a criminal case, a guilty verdict can only occur if the jury unanimously agrees that someone is guilty "beyond a reasonable doubt". The courts do this to try to prevent a false positive from occuring and to prevent sending an innocent person to jail.
 
 As you can see there are important distinctions between a false positive and a false negative. Which one is a worse error depends on the situation. When you are doing the hypothesis testing, you can look at which error type is worse and plan for it. You can decide how much certainty your testing needs in order to accept or reject the null hypothesis, and doing this can help decrease the chance of getting either a false positive or a false negative.
-
-
