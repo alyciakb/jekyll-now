@@ -3,12 +3,12 @@ layout: post
 title: TRUE! ...no wait, false?
 ---
 
-<h1><p style="text-align:center;">TRUE! No wait... false?</p></h1>
 <h3><p style="text-align:center;">A look at the differences between false positives and false negatives</p></h3>
 
 It's 7am and John and Sally are staring at a timer: *3-2-1 ding ding ding*, the timer goes off. They nervously glance at each other and then pick up the pregnancy test, it's positive. They begin celebrating, they've been trying to have a baby for years! They call the doctor's office to set up a formal appointment and while at the appointment, Sally and John find out they are NOT pregnant. The test was wrong. They've been the victims of a false positive test.
 
 But what if John and Sally picked up the pregnancy test and it was negative? What if the test told Sally she was NOT pregnant and a couple months later she found out the test was incorrect and surprise! She is now a few months pregnant? In that case, Sally and John would be the victims of a false negative test.
+
 
 ### **What's the difference between a false positive and a false negative?**
 
@@ -21,14 +21,13 @@ If you "reject the null hypothesis" then you are saying that YES something has c
 
 **A false negative, on the other hand, is called a Type II error.** It occurs when you accept the null hypothesis but you should have rejected it. It's the same as saying that Sally is NOT pregnant (nothing has changed) when in reality she IS pregnant (something has changed).
 
+
 ### **But why do we care about the difference between them?**
 
 <p style="text-align:center"><img src="https://media.giphy.com/media/anB3cor0tgFX2/giphy.gif" width="250"/></p>
-<p style="text-align:center">[Source: giphy.com](https://media.giphy.com/media/anB3cor0tgFX2/giphy.gif)</p>
+<p style="text-align:center"><a href="https://media.giphy.com/media/anB3cor0tgFX2/giphy.gif" Source: giphy.com</a></p>
 
 *In both cases a mistake has been made, why does it matter what type of mistake it is?*
-
-
 
 
 Let's look at another example. What do you think is worse:
