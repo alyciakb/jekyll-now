@@ -3,7 +3,7 @@ layout: post
 title: Version Control
 ---
 
-If you are anything like me, you have a nasty habit of having files open and being edited in multiple places. If I'm doing this locally, I might have a "draft" version and a "final" version of a file. But then I find myself STILL editing BOTH versions of the document. Obviously the "final" version isn't so final. It makes for headaches later on as I look at the two versions and try to pick out the differences between the files to decide which version is better.
+If you are anything like me, you have a nasty habit of opening and editing files in multiple places. If I'm doing this locally, I might have a "draft" version and a "final" version of a file. But then I find myself STILL editing BOTH versions of the document. Obviously the "final" version isn't so final. It makes for headaches later on as I look at the two versions and try to pick out the differences between the files to decide which version is better.
 
 <p style="text-align:center"><img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif"/></p>
 
