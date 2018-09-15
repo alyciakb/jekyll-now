@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TRUE! NO WAIT... FALSE?
+title: TRUE! No wait... False?
 ---
 
 <h3><p style="text-align:center;">A look at the differences between false positives and false negatives</p></h3>
