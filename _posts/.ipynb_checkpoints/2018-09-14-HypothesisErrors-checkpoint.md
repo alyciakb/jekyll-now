@@ -1,11 +1,11 @@
 ---
 layout: post
-title: TRUE! NO WAIT... FALSE?
+title: TRUE! ...no wait, false?
 ---
 
 <h3><p style="text-align:center;">A look at the differences between false positives and false negatives</p></h3>
 
-It's 7am and John and Sally are staring at a timer: *3-2-1 ding ding ding*, the timer goes off. They nervously glance at each other and then pick up the pregnancy test, it's positive. They begin celebrating, they've been trying to have a baby for months! They call the doctor's office to set up a formal appointment and while at the appointment, Sally and John find out they are NOT pregnant. The test was wrong. They've been the victims of a false positive test.
+It's 7am and John and Sally are staring at a timer: *3-2-1 ding ding ding*, the timer goes off. They nervously glance at each other and then pick up the pregnancy test, it's positive. They begin celebrating, they've been trying to have a baby for years! They call the doctor's office to set up a formal appointment and while at the appointment, Sally and John find out they are NOT pregnant. The test was wrong. They've been the victims of a false positive test.
 
 But what if John and Sally picked up the pregnancy test and it was negative? What if the test told Sally she was NOT pregnant and a couple months later she found out the test was incorrect and surprise! She is now a few months pregnant? In that case, Sally and John would be the victims of a false negative test.
 
@@ -37,9 +37,9 @@ Let's look at another example. What do you think is worse:
 
 *Yikes.* Both situations would not be fun to be in, but scenario #2 is arguably much worse. A patient believes they are cancer-free and go about their days without seeking treatment, all the while the cancer is growing. Whereas in scenario #1, a patient is scared because they think they have cancer, but upon further testing they will find out that they don't have cancer - *phew, crisis averted!*
 
-Scenario #2 is a false negative and in this situation it is more serious to commit this type of error.
+In this situation, scenario #2 is a false negative and it is more serious to commit this type of error.
 
-**This is why the type of error matters.** When you are doing hypothesis testing you can control how certain you need to be in your testing before you accept that something has changed (reject the null hypothesis). If you are visiting the doctor to find out if something is wrong, you want them to be very certain that nothing is wrong before they send you home. Doctors can set up their initial tests to it's easier to reject the null hypothesis (everything is normal) for an alternative hypothesis (something is not normal).
+**This is why the type of error matters.** When you are doing hypothesis testing you can control how certain you need to be in your testing before you accept that something has changed (reject the null hypothesis). For something like cancer, you want your doctor to be VERY certain that you do NOT have cancer before they tell you that you don't. In this situation, doctors can set up their initial tests so it is easier to reject the null hypothesis, meaning it is easier to say "hmmm, you might have cancer, more testing needs to be done".
 
 In other situations, you might want to make it more difficult to reject the null hypothesis. This is the case in the judicial system. We've all heard the saying *"innocent until proven guilty".* In terms of hypothesis testing, we have:
 
