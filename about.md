@@ -12,4 +12,4 @@ I'm Alycia and I'm currently a Data Science student at the University of British
 Check back as I will be developing and posting content for this blog throughout my MDS program. 
 
 
-<img src="/images/alycia.jpg" alt="AlyciaPhoto" height="400" class="center"/><img src="/images/steeple.jpg"  alt="SteeplePhoto" height="400" class="center"/>
+<img src="/images/alycia.jpg" alt="AlyciaPhoto" height="300" class="center"/><img src="/images/steeple.jpg"  alt="SteeplePhoto" height="300" class="center"/>
