@@ -89,28 +89,28 @@ This is a more subjective category, but I will apply a convenience score to the 
 
 **Car is awarded 15 points and other transportation has a combined -10 points for convenience.**
 
-Adding it all together (per month):
+Adding it all together (per month): 
 
-| FACTOR             | CAR     | OTHER TRANSPORT |
-|--------------------|---------|-----------------|
-| PRICE:             | +$70    | Neutral         |
-| TIME:              | Neutral | +2 hours        |
-| CONVENIENCE SCORE: | 15      | -10             |
+| FACTOR | CAR |  OTHER TRANSPORT |
+|---|---|---|
+| PRICE: | +\$70 | Neutral |
+| TIME: | Neutral | +2 hours |
+| CONVENIENCE SCORE: | 15 | -10 |
 
 If I turn all factors into dollars:
 
--   Time will be valued at my past wage, $25 per hour.
--   1 convenience point = -$1 (saving me $1).
--   Neutral = $0
+- Time will be valued at my past wage, \$25 per hour.
+- 1 convenience point = -\$1 (saving me $1).
+- Neutral = \$0
 
 The table becomes:
 
-| FACTOR                | CAR    | OTHER TRANSPORT |
-|-----------------------|--------|-----------------|
-| PRICE:                | 70     | 0               |
-| TIME:                 | 0      | 50              |
-| CONVENIENCE SCORE:    | -15    | 10              |
-| **TOTAL ADDED COST:** | **55** | **60**          |
+| FACTOR | CAR |  OTHER TRANSPORT |
+|---|---|---|
+| PRICE: | 70 | 0 |
+| TIME: | 0 | 50 |
+| CONVENIENCE SCORE: | -15 | 10 |
+| **TOTAL ADDED COST:** | **55** | **60** |
 
 The total is based on a cost factor, so the lower the score the better. Which means, with this calculation, my car reigns supreme (barely). I should keep it insured to drive it to practice. However with a difference factor of only "$5 per month", either decision would be acceptable.
 
