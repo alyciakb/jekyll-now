@@ -49,7 +49,7 @@ Next we'll look at commute times for weekend morning and weekday evening practic
 2.  The carpool time is based on transit time to teammate's apartment + drive time to run locations from there.
 3.  There are no transit options to Surrey Bend or Derby Reach.
 
-<center><img src="/images/lab4_blogpost_files/figure-markdown_github/time-1.png" alt="Weekend Commute Time" height="300"/><img src="/images/lab4_blogpost_files/figure-markdown_github/time-2.png" alt="Weekday Commute Time" height="300"/></center>
+<center><img src="/images/lab4_blogpost_files/figure-markdown_github/time-1.png" alt="Weekend Commute Time"/><img src="/images/lab4_blogpost_files/figure-markdown_github/time-2.png" alt="Weekday Commute Time"/></center>
 
 ### Convenience
 
@@ -68,9 +68,9 @@ This is a more subjective category, but I will apply a convenience score to the 
 *   (C) Busses/transit less effected by rush hour and traffic.
 *   (N) Bus comes every 10min on weekday afternoon/evenings.
 *   (I) Bus comes every 20min on weekend mornings.
-*   (I) Infeasible to take transit to most run locations.
-*   (N) Feasible to take transit to Burnaby Lake or Mountain with 1-2 bus/train changes
-*   (N) Feasible to take transit to teammate's apartment to carpool with 1-2 bus/train changes
+*   (I) Unable to take transit to some run locations.
+*   (N) 1-2 bus/train changes to Burnaby Lake or Mountain
+*   (N) 1-2 bus/train changes to teammate's apartment to carpool
 *   (I) Some walking involved to get to run locations
 
 **Carpool:**
@@ -126,9 +126,10 @@ All in all, the analysis favours me keeping my car insured and driveable this ye
 ----------------------------------------------------
 
 #### References:
-
+<p style="font-size:10px">
 Google Maps data for driving vs. transit options to running spots we frequent: [Surrey Bend Park Driving](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Surrey+Bend+Park,+104+Avenue,+Surrey,+BC/@49.2258985,-123.2274779,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485d6cef33fbd01:0x86930b15b5c4ec4e!2m2!1d-122.7284123!2d49.1941758!3e0), [Surrey Bend Park Transit](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Surrey+Bend+Park,+104+Avenue,+Surrey,+BC/@49.2256347,-123.2285928,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485d6cef33fbd01:0x86930b15b5c4ec4e!2m2!1d-122.7284123!2d49.1941758!3e3), [Campbell Valley Park Driving](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Campbell+Valley+Regional+Park,+16+Avenue,+Langley,+BC/@49.1437448,-123.1948014,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485c6062b7e792d:0xd51f4184d46485b6!2m2!1d-122.6608212!2d49.0303964!3e0), [Campbell Valley Park Transit](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Campbell+Valley+Regional+Park,+16+Avenue,+Langley,+BC/@49.1576781,-123.1878853,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485c6062b7e792d:0xd51f4184d46485b6!2m2!1d-122.6608212!2d49.0303964!3e3), [Burnaby Lake Driving](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Burnaby+Lake,+Burnaby,+BC/@49.2555999,-123.1953396,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5486779ec98481d3:0x4bb40fdefbc73000!2m2!1d-122.9441117!2d49.2420313!3e0), [Burnaby Lake Transit](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Burnaby+Lake,+Burnaby,+BC/@49.2637498,-123.1917166,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5486779ec98481d3:0x4bb40fdefbc73000!2m2!1d-122.9441117!2d49.2420313!3e3), [Burnaby Mountain Driving](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Burnaby+Mountain+Park,+Burnaby+Mountain+Pkwy,+Burnaby,+BC/@49.2700849,-123.1908451,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x548677a6363c6f03:0x5f34938923afee19!2m2!1d-122.9331187!2d49.2826282!3e0), [Burnaby Mountain Transit](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Burnaby+Mountain+Park,+Burnaby+Mountain+Pkwy,+Burnaby,+BC/@49.2723879,-123.1834531,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x548677a6363c6f03:0x5f34938923afee19!2m2!1d-122.9331187!2d49.2826282!3e3), [Derby Reach Driving](https://www.google.com/maps/dir/West+16th+Avenue+%26+Macdonald+Street/Derby+Reach+Regional+Park,+21801+Allard+Crescent,+Langley,+BC+V1M+3W1/@49.2028634,-123.160848,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485d30cadb1a875:0x98951fb4642ac568!2m2!1d-122.5945669!2d49.199814!3e0), [Derby Reach Transit](https://www.google.com/maps/dir/West+16th+Avenue+%26+Macdonald+Street/Derby+Reach+Regional+Park,+21801+Allard+Crescent,+Langley,+BC+V1M+3W1/@49.2284538,-123.1616701,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485d30cadb1a875:0x98951fb4642ac568!2m2!1d-122.5945669!2d49.199814!3e3)
 
 Car Share Rates: [Evo Car Share](https://evo.ca/rates), [Car2Go](https://www.car2go.com/CA/en/vancouver/rates/), [Modo](https://www.modo.coop/plans/#page-submenu), [Zipcar](https://www.zipcar.ca/learn-more/vancouver?plan_key=evp-50)
 
 Other sources: [Gas Prices for Specific Routes](https://www.fueleconomy.gov/trip/), [Bus schedules](https://www.translink.ca), [ICBC Insurance Info](https://www.icbc.com/Pages/default.aspx)
+</p>
