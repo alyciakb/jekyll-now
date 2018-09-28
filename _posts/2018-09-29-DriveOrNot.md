@@ -100,7 +100,7 @@ Adding it all together (per month):
 If I turn all factors into dollars:
 
 - Time will be valued at my past wage, \$25 per hour.
-- 1 convenience point = -\$1 (saving me $1).
+- 1 convenience point = -\$1 (saving me \$1).
 - Neutral = \$0
 
 The table becomes:
@@ -112,7 +112,7 @@ The table becomes:
 | CONVENIENCE SCORE: | -15 | 10 |
 | **TOTAL ADDED COST:** | **55** | **60** |
 
-The total is based on a cost factor, so the lower the score the better. Which means, with this calculation, my car reigns supreme (barely). I should keep it insured to drive it to practice. However with a difference factor of only "$5 per month", either decision would be acceptable.
+The total is based on a cost factor, so the lower the score the better. Which means, with this calculation, my car reigns supreme (barely). I should keep it insured to drive it to practice. However with a difference factor of only "\$5 per month", either decision would be acceptable.
 
 Of course we need to briefly talk about the limitations of this analysis: I only factored in using the transportation methods to get to practices, I did not factor in errands, meet ups, vacations, other travel. The convenience score is arbitrary and different scoring methods could result in a different decision. ALL of my costs and times are estimates. I cannot fully predict how long it will take on a given day to get somewhere nor exactly how much gas will cost.
 
