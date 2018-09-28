@@ -57,35 +57,35 @@ This is a more subjective category, but I will apply a convenience score to the 
 
 **Car:**
 
--   (C) Can depart at any time
--   (C) Easy parking in front of my house
--   (C) Easy and close parking to our run locations
+*   (C) Can depart at any time
+*   (C) Easy parking in front of my house
+*   (C) Easy and close parking to our run locations
 
 **Transit:**
 
--   (C) Bus stop is a less than 1min walk from my house.
--   (I) Only 1 bus option where I live and need to connect to other busses or the skytrain for all routes.
--   (C) Busses/transit less effected by rush hour and traffic.
--   (N) Bus comes every 10min on weekday afternoon/evenings.
--   (I) Bus comes every 20min on weekend mornings.
--   (I) Infeasible to take transit to most run locations.
--   (N) Feasible to take transit to Burnaby Lake or Mountain with 1-2 bus/train changes
--   (N) Feasible to take transit to teammate's apartment to carpool with 1-2 bus/train changes
--   (I) Some walking involved to get to run locations
+*   (C) Bus stop is a less than 1min walk from my house.
+*   (I) Only 1 bus option where I live and need to connect to other busses or the skytrain for all routes.
+*   (C) Busses/transit less effected by rush hour and traffic.
+*   (N) Bus comes every 10min on weekday afternoon/evenings.
+*   (I) Bus comes every 20min on weekend mornings.
+*   (I) Infeasible to take transit to most run locations.
+*   (N) Feasible to take transit to Burnaby Lake or Mountain with 1-2 bus/train changes
+*   (N) Feasible to take transit to teammate's apartment to carpool with 1-2 bus/train changes
+*   (I) Some walking involved to get to run locations
 
 **Carpool:**
 
--   (N) Rely on teammate's schedule
--   (I) May only be available to carpool on certain days
--   (C) Easy and close parking to run locations
+*   (N) Rely on teammate's schedule
+*   (I) May only be available to carpool on certain days
+*   (C) Easy and close parking to run locations
 
 **Carshare:**
 
--   (I) Need to bus or walk to the car share vehicles (usually about 8 blocks away)
--   (C) Can set up rental for any time and time period
--   (I) Must return car by rental end time
--   (N) Must return car to "home area"
--   (C) Easy and close parking to run locations
+*   (I) Need to bus or walk to the car share vehicles (usually about 8 blocks away)
+*   (C) Can set up rental for any time and time period
+*   (I) Must return car by rental end time
+*   (N) Must return car to "home area"
+*   (C) Easy and close parking to run locations
 
 **Car is awarded 15 points and other transportation has a combined -10 points for convenience.**
 
@@ -94,16 +94,16 @@ Adding it all together (per month):
 
 | FACTOR             | CAR     | OTHER TRANSPORT |
 |--------------------|---------|-----------------|
-| PRICE:             | +\$70   | Neutral         |
+| PRICE:             | +$70    | Neutral         |
 | TIME:              | Neutral | +2 hours        |
 | CONVENIENCE SCORE: | 15      | -10             |
 
 
 If I turn all factors into dollars:
 
-* Time will be valued at my past wage, \$25 per hour.
-* 1 convenience point = -\$1 (saving me \$1).
-* Neutral = \$0
+* Time will be valued at my past wage, $25 per hour.
+* 1 convenience point = -$1 (saving me $1).
+* Neutral = $0
 
 The table becomes:
 
