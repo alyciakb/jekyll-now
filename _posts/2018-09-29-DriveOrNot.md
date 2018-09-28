@@ -26,14 +26,14 @@ Here's what I factored in for transportation cost:
 
 **Car Cost:**
 
-1.  Insurance estimation - \$125 (pleasure use only, maximum discounts).
-2.  Gas usage/cost estimation - \$8.25 per roundtrip.
-3.  Parking - \$0 because the parks we run at have free parking.
-4.  Maintenance - hoping for no major maintenance, but will need oil changes. At \$60 each and 3 per year, it is a yearly cost of \$180.
+1.  Insurance estimation - $125 (pleasure use only, maximum discounts).
+2.  Gas usage/cost estimation - $8.25 per roundtrip.
+3.  Parking - $0 because the parks we run at have free parking.
+4.  Maintenance - hoping for no major maintenance, but will need oil changes. At $60 each and 3 per year, it is a yearly cost of $180.
 
-**Transit Cost:** Due to a mandatory enrolment in the UBC Compass Card program, it is a university fee I can't avoid. Thus I will call my transit costs \$0.
+**Transit Cost:** Due to a mandatory enrolment in the UBC Compass Card program, it is a university fee I can't avoid. Thus I will call my transit costs $0.
 
-**Car Share Cost:** I researched Modo, Car2Go, Zipcar, and Evo, and found Modo to be the most cost-effective and available option for my needs. It would cost \$30-45 per round trip, which is \$400-500 per month if I used it every commute. This is infeasable, but it can be an emergency option, when carpooling and transit are not available. I estimate I will use it on 3 occassions per month.
+**Car Share Cost:** I researched Modo, Car2Go, Zipcar, and Evo, and found Modo to be the most cost-effective and available option for my needs. It would cost $30-45 per round trip, which is $400-500 per month if I used it every commute. This is infeasable, but it can be an emergency option, when carpooling and transit are not available. I estimate I will use it on 3 occassions per month.
 
 **Carpool Cost:** My teammate drives to practice regardless, so if I were to carpool with her I would pay her half the cost of gas - \$4.12 per rountrip.
 
@@ -105,8 +105,14 @@ The table becomes:
 
 <center><img src="/images/lab4_blogpost_files/figure-markdown_github/table2.png" alt="Table 2"/></center>
 
+| FACTOR             | CAR    | OTHER TRANSPORT |
+|--------------------|--------|-----------------|
+| PRICE:             | 70     | 0               |
+| TIME:              | 0      | 50              |
+| CONVENIENCE SCORE: | -15    | 10              |
+| **TOTAL SCORE:**   | **55** | **60**          |
 
-The total is based on a cost factor, so the lower the score the better. Which means, with this calculation, my car reigns supreme (barely). I should keep it insured to drive it to practice. However with a difference factor of only "\$5 per month", either decision would be acceptable.
+The total is based on a cost factor, so the lower the score the better. Which means with this calculation, my car reigns supreme (barely). I should keep it insured to drive it to practice. However with a difference factor of only "$5 per month", either decision would be acceptable.
 
 Of course we need to briefly talk about the limitations of this analysis: I only factored in using the transportation methods to get to practices, I did not factor in errands, meet ups, vacations, other travel. The convenience score is arbitrary and different scoring methods could result in a different decision. ALL of my costs and times are estimates. I cannot fully predict how long it will take on a given day to get somewhere nor exactly how much gas will cost.
 
