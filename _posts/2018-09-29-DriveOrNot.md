@@ -92,11 +92,7 @@ This is a more subjective category, but I will apply a convenience score to the 
 Adding it all together (per month): 
 
 
-| FACTOR             | CAR     | OTHER TRANSPORT |
-|--------------------|---------|-----------------|
-| PRICE:             | +$70    | Neutral         |
-| TIME:              | Neutral | +2 hours        |
-| CONVENIENCE SCORE: | 15      | -10             |
+<center><img src="/images/lab4_blogpost_files/figure-markdown_github/table1.png" alt="Table 1" /></center>
 
 
 If I turn all factors into dollars:
@@ -107,12 +103,8 @@ If I turn all factors into dollars:
 
 The table becomes:
 
-| FACTOR             | CAR    | OTHER TRANSPORT |
-|--------------------|--------|-----------------|
-| PRICE:             | 70     | 0               |
-| TIME:              | 0      | 50              |
-| CONVENIENCE SCORE: | -15    | 10              |
-| **TOTAL SCORE:**   | **55** | **60**          |
+<center><img src="/images/lab4_blogpost_files/figure-markdown_github/table2.png" alt="Table 2"/></center>
+
 
 The total is based on a cost factor, so the lower the score the better. Which means, with this calculation, my car reigns supreme (barely). I should keep it insured to drive it to practice. However with a difference factor of only "\$5 per month", either decision would be acceptable.
 
