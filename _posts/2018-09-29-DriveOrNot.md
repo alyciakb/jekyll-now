@@ -91,11 +91,13 @@ This is a more subjective category, but I will apply a convenience score to the 
 
 Adding it all together (per month): 
 
+------------------------
 | FACTOR             | CAR     | OTHER TRANSPORT |
 |--------------------|---------|-----------------|
 | PRICE:             | +\$70   | Neutral         |
 | TIME:              | Neutral | +2 hours        |
 | CONVENIENCE SCORE: | 15      | -10             |
+
 
 If I turn all factors into dollars:
 
