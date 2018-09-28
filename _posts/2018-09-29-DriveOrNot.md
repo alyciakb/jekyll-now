@@ -99,9 +99,9 @@ Adding it all together (per month):
 
 If I turn all factors into dollars:
 
-- Time will be valued at my past wage, \$25 per hour.
-- 1 convenience point = -\$1 (saving me \$1).
-- Neutral = \$0
+* Time will be valued at my past wage, \$25 per hour.
+* 1 convenience point = -\$1 (saving me \$1).
+* Neutral = \$0
 
 The table becomes:
 
