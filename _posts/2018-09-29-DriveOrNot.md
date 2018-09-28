@@ -130,7 +130,7 @@ All in all, the analysis favours me keeping my car insured and driveable this ye
 </center>
 
 
-<hr>
+
 
 #### References:
 
