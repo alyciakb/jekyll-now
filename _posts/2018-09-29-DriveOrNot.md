@@ -89,6 +89,8 @@ This is a more subjective category, but I will apply a convenience score to the 
 
 **Car is awarded 15 points and other transportation has a combined -10 points for convenience.**
 
+--------------------------------------------
+
 Adding it all together (per month): 
 
 
@@ -101,16 +103,12 @@ If I turn all factors into dollars:
 * 1 convenience point = -$1 (saving me $1).
 * Neutral = $0
 
+
 The table becomes:
 
 <center><img src="/images/lab4_blogpost_files/figure-markdown_github/table2.png" alt="Table 2"/></center>
 
-| FACTOR             | CAR    | OTHER TRANSPORT |
-|--------------------|--------|-----------------|
-| PRICE:             | 70     | 0               |
-| TIME:              | 0      | 50              |
-| CONVENIENCE SCORE: | -15    | 10              |
-| **TOTAL SCORE:**   | **55** | **60**          |
+
 
 The total is based on a cost factor, so the lower the score the better. Which means with this calculation, my car reigns supreme (barely). I should keep it insured to drive it to practice. However with a difference factor of only "$5 per month", either decision would be acceptable.
 
@@ -125,6 +123,7 @@ All in all, the analysis favours me keeping my car insured and driveable this ye
 <a href="https://giphy.com/gifs/ypJDAUdeiBZDy">SOURCE</a>
 </center>
 
+----------------------------------------------------
 
 #### References:
 
