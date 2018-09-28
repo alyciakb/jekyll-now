@@ -35,7 +35,7 @@ There are many factors to consider for the cost of the different transportations
 
 **Carpool Cost:** My teammate drives to practice regardless, so if I were to carpool with her I would simply pay her half the cost of gas - $4.12 per rountrip.
 
-![](images/lab4_blogpost_files/figure-markdown_github/price-1.png)
+<center><img src="/images/lab4_blogpost_files/figure-markdown_github/price-1.png" alt="Price Graph" height="300"/></center>
 
 ### Time
 
@@ -43,4 +43,5 @@ Below you can see the graphs of my approximate weekend commute times based on pr
 
 *A couple things to note:* 1. For the purpose of keeping my calculations a bit easier, "driving time" will apply to both my own car and car share. I'm going to ignore the time it takes to get to a car share and address that when I talk about Convenience and Flexibility. 2. The carpool time is based on the time to transit to my teammate's apartment plus the time it takes from there to the running destination via car. 3. There are no transit options to Surrey Bend or Derby Reach.
 
-![](images/lab4_blogpost_files/figure-markdown_github/time-1.png)![](images/lab4_blogpost_files/figure-markdown_github/time-2.png)
+<center><img src="/images/lab4_blogpost_files/figure-markdown_github/time-1.png" alt="Weekend Commute Time" height="300"/><img src="/images/lab4_blogpost_files/figure-markdown_github/time-2.png" alt="Weekday Commute Time" height="300"/></center>
+
