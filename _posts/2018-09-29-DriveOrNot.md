@@ -1,7 +1,10 @@
-To Drive or Not to Drive
-================
-Alycia Butterworth
-2018-09-29
+---
+layout: post
+title: To Drive or Not to Drive
+---
+
+<h3><p style="text-align:center;">Using Data Analysis to Decide Whether or Not to Keep My Car Insured While at UBC Vancouver</p></h3>
+
 
 To drive or not to drive. That was my big question when moving to Vancouver for school. It's common knowledge in BC that it is expensive to own a car in Vancouver (high insurance rates plus high current gas prices) and that the alternative transportation options in Vancouver -public transit and car share- are fantastic. Plus, I have a nice commuting bike and some (limited) carpool options.
 
@@ -32,7 +35,7 @@ There are many factors to consider for the cost of the different transportations
 
 **Carpool Cost:** My teammate drives to practice regardless, so if I were to carpool with her I would simply pay her half the cost of gas - $4.12 per rountrip.
 
-![](lab4_blogpost_files/figure-markdown_github/price-1.png)
+![](images/lab4_blogpost_files/figure-markdown_github/price-1.png)
 
 ### Time
 
@@ -40,4 +43,4 @@ Below you can see the graphs of my approximate weekend commute times based on pr
 
 *A couple things to note:* 1. For the purpose of keeping my calculations a bit easier, "driving time" will apply to both my own car and car share. I'm going to ignore the time it takes to get to a car share and address that when I talk about Convenience and Flexibility. 2. The carpool time is based on the time to transit to my teammate's apartment plus the time it takes from there to the running destination via car. 3. There are no transit options to Surrey Bend or Derby Reach.
 
-![](lab4_blogpost_files/figure-markdown_github/time-1.png)![](lab4_blogpost_files/figure-markdown_github/time-2.png)
+![](images/lab4_blogpost_files/figure-markdown_github/time-1.png)![](images/lab4_blogpost_files/figure-markdown_github/time-2.png)
