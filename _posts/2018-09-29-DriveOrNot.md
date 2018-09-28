@@ -6,7 +6,7 @@ title: To Drive or Not to Drive
 <h3><p style="text-align:center;">Using Data Analysis to Decide Whether or Not to Keep My Car Insured While at UBC Vancouver</p></h3>
 
 
-To drive or not to drive. That was my big question when moving to Vancouver for school. It's common knowledge in BC that it is expensive to own a car in Vancouver (high insurance rates plus high current gas prices) and that the alternative transportation options in Vancouver -public transit and car share- are fantastic. Plus, I have a nice commuting bike and some (limited) carpool options.
+To drive or not to drive. That was my big question when moving to Vancouver for school. It's common knowledge in BC that it is expensive to own a car in Vancouver (high insurance rates plus high current gas prices) and that the alternative transportation options in Vancouver, public transit and car share, are fantastic. Plus, I have a nice commuting bike and some (limited) carpool options.
 
 It sounds like a no brainer, just ditch the car! But for me, it's not that simple. I'm also a competitive runner and I train with a team based out of the Langley-Maple Grove area. This means that ~3 times per week I meet up with them to run in trail systems in the suburbs outside Vancouver. These are longer commutes and harder to get to via transit. Now the decision is more complex, do I keep my car insured this year or do I rely on alternative transportation?
 
@@ -26,16 +26,16 @@ Here's what I factored in for transportation cost:
 
 **Car Cost:**
 
-1.  Insurance estimation - $125 (pleasure use only, maximum discounts).
-2.  Gas usage/cost estimation - $8.25 per roundtrip.
-3.  Parking - $0 because the parks we run at have free parking.
-4.  Maintenance - hoping for no major maintenance, but will need oil changes. At $60 each and 3 per year, it is a yearly cost of $180.
+1.  Insurance estimation - \$125 (pleasure use only, maximum discounts).
+2.  Gas usage/cost estimation - \$8.25 per roundtrip.
+3.  Parking - \$0 because the parks we run at have free parking.
+4.  Maintenance - hoping for no major maintenance, but will need oil changes. At \$60 each and 3 per year, it is a yearly cost of \$180.
 
-**Transit Cost:** Due to a mandatory enrolment in the UBC Compass Card program, it is a university fee I can't avoid. Thus I will call my transit costs $0.
+**Transit Cost:** Due to a mandatory enrolment in the UBC Compass Card program, it is a university fee I can't avoid. Thus I will call my transit costs \$0.
 
-**Car Share Cost:** I researched Modo, Car2Go, Zipcar, and Evo, and found Modo to be the most cost-effective and available option for my needs. It would cost $30-45 per round trip, which is $400-500 per month if I used it every commute. This is infeasable, but it can be an emergency option, when carpooling and transit are not available. I estimate I will use it on 3 occassions per month.
+**Car Share Cost:** I researched Modo, Car2Go, Zipcar, and Evo, and found Modo to be the most cost-effective and available option for my needs. It would cost \$30-45 per round trip, which is \$400-500 per month if I used it every commute. This is infeasable, but it can be an emergency option, when carpooling and transit are not available. I estimate I will use it on 3 occassions per month.
 
-**Carpool Cost:** My teammate drives to practice regardless, so if I were to carpool with her I would pay her half the cost of gas - $4.12 per rountrip.
+**Carpool Cost:** My teammate drives to practice regardless, so if I were to carpool with her I would pay her half the cost of gas - \$4.12 per rountrip.
 
 <center><img src="/images/lab4_blogpost_files/figure-markdown_github/price-1.png" alt="Price Graph" height="300"/></center>
 
