@@ -91,7 +91,7 @@ This is a more subjective category, but I will apply a convenience score to the 
 
 Adding it all together (per month): 
 
-------------------------
+
 | FACTOR             | CAR     | OTHER TRANSPORT |
 |--------------------|---------|-----------------|
 | PRICE:             | +\$70   | Neutral         |
