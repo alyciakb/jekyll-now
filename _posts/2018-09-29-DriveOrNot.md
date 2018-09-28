@@ -110,7 +110,7 @@ The table becomes:
 | PRICE: | 70 | 0 |
 | TIME: | 0 | 50 |
 | CONVENIENCE SCORE: | -15 | 10 |
-| **TOTAL ADDED COST:** | **55** | **60** |
+| **TOTAL SCORE:** | **55** | **60** |
 
 The total is based on a cost factor, so the lower the score the better. Which means, with this calculation, my car reigns supreme (barely). I should keep it insured to drive it to practice. However with a difference factor of only "\$5 per month", either decision would be acceptable.
 
@@ -125,7 +125,6 @@ All in all, the analysis favours me keeping my car insured and driveable this ye
 <a href="https://giphy.com/gifs/ypJDAUdeiBZDy">SOURCE</a>
 </center>
 
-------------------------------------------------------------------------
 
 #### References:
 
