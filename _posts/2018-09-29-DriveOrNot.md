@@ -92,30 +92,6 @@ Other Factors:
 
 --------------------------------------------
 
-Now looking at the price, time, and convenience factors together:
-
-| FACTOR             | CAR     | OTHER TRANSPORT |
-|--------------------|---------|-----------------|
-| PRICE:             | +$70    | Neutral         |
-| TIME:              | Neutral | +2 hours        |
-| CONVENIENCE SCORE: | 3       | -5              |
-
-*Keeping my car is an additional $70 per month and has positive convenience. The bus is an additional 2 hours commuting per month and has negative convenience.*
-
-If I turn all factors into dollars:
-
--   Time will be valued at my past wage, $25 per hour.
--   1 convenience point = $1 per week savings (about $4 per month)
-
-The table becomes:
-
-| FACTOR             | CAR    | OTHER TRANSPORT |
-|--------------------|--------|-----------------|
-| PRICE:             | 70     | 0               |
-| TIME:              | 0      | 50              |
-| CONVENIENCE SCORE: | -12    | 20              |
-| **TOTAL SCORE:**   | **58** | **70**          |
-
 
 Now looking at the price, time, and convenience factors together:
 
@@ -127,7 +103,7 @@ Now looking at the price, time, and convenience factors together:
 If I turn all factors into dollars:
 
 * Time will be valued at my past wage, $25 per hour.
-* 1 convenience point = $1 per week savings (about $4 per month)
+* 1 convenience point = $1 per week savings ($4 per month)
 
 
 The table becomes:
