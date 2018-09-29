@@ -54,28 +54,14 @@ Next we'll look at commute times for weekend morning and weekday evening practic
 
 ### Convenience
 
-This is a more subjective category, but I've given +1 or -1 to the travel types depending on whether it's convenient or inconvenient.
+This is a subjective category, but I created a scoring system for the topics. I've scored the travel types with a +1 or -1 to depending on whether it's convenient and flexible within the specified category or not.
 
-Departure Time:
+|  | Car | Transit | Carpool | Car share |
+|--|--|--|--|--|
+| Departure Time Flexibility | +1 | -1 | -1 | +1 |
+| Arrival Proximity to Location | +1 | -1 | +1 | +1 |
+| Travel Simplicity | +1 | -1 | -1 | -1 |
 
-* +1: Car - can leave any time
-* -1: Transit - Must follow bus schedule
-* -1: Carpool - Must follow bus schedule and teammate's schedule
-* +1: Car share - can leave any time
-
-Arrival proximity to location:
-
-* +1: Car - can park close
-* -1: Transit - may have to walk
-* +1: Carpool - can park close
-* +1: Car Share - can park close
-
-Simplicity:
-
-* +1: Car - access in front of house and take it the whole way to practice
-* -1: Transit - must change busses on every route
-* -1: Carpool - must change busses and go to teammate's car
-* -1: Car Share - must locate and get to car before I can use it
 
 Other Factors:
 
