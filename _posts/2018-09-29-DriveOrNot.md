@@ -71,6 +71,8 @@ Other Factors:
 * Car = +3
 * Alternative Transportation = -5
 
+*As you can see, car received a positive convenience score, meaning it is convenient and flexible whereas alternative transportation received a negative score, meaning it takes some extra planning and effort and is not as flexible.
+
 --------------------------------------------
 
 
