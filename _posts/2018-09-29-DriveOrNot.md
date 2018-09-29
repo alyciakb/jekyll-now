@@ -38,7 +38,7 @@ Let's dive into each individually:
 
 Graphing the overall monthly car costs and combined alternative transportation (carpool, transit, and car share) costs:
 
-<center><img src="/images/lab4_blogpost_files/figure-markdown_github/price-1.png" alt="Price Graph" height="300"/></center>
+<center><img src="/images/lab4_blogpost_files/figure-markdown_github/price-1.png" alt="Price Graph" height="350"/></center>
 
 ### Time
 
@@ -56,12 +56,7 @@ Next we'll look at commute times for weekend morning and weekday evening practic
 
 This is a subjective category, but I created a scoring system for the topics. I've scored the travel types with a +1 or -1 to depending on whether it's convenient and flexible within the specified category or not.
 
-|  | Car | Transit | Carpool | Car share |
-|--|--|--|--|--|
-| Departure Time Flexibility | +1 | -1 | -1 | +1 |
-| Arrival Proximity to Location | +1 | -1 | +1 | +1 |
-| Travel Simplicity | +1 | -1 | -1 | -1 |
-
+<center><img src="/images/lab4_blogpost_files/figure-markdown_github/conveniencetable.png" alt="Convenience Table" /></center>
 
 Other Factors:
 
