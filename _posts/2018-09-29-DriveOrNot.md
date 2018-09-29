@@ -32,7 +32,7 @@ Let's dive into each individually:
 
 **Transit Cost:** Due to mandatory UBC transit enrolment, I will say this fee is $0.
 
-**Car Share Cost:** I researched Modo, Car2Go, Zipcar, and Evo, and found Modo to be the best option for me. It would cost $30-45 per round trip, so it is too expensive to use for every commute, but can use it occassionally, about 3 times per month.
+**Car Share Cost:** I researched Modo, Car2Go, Zipcar, and Evo, and found Modo to be the best option for me. It would cost $30-45 per round trip, so it is too expensive to use for every commute, but can use it occasionally, about 3 times per month.
 
 **Carpool Cost:** My teammate drives to practice regardless, so I would simply pay her half the cost of gas - $4.12 per rountrip.
 
