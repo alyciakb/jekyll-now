@@ -21,7 +21,7 @@ Let's look at the three factors most important to me:
 
 Let's dive into each individually:
 
-### Price
+## Price
 
 
 **Car Cost:**
@@ -40,7 +40,7 @@ Graphing the overall monthly car costs and combined alternative transportation (
 
 <center><img src="/images/lab4_blogpost_files/figure-markdown_github/price-1.png" alt="Price Graph" height="350"/></center>
 
-### Time
+## Time
 
 Next we'll look at commute times for weekend morning and weekday evening practices.
 
@@ -52,7 +52,7 @@ Next we'll look at commute times for weekend morning and weekday evening practic
 
 <center><img src="/images/lab4_blogpost_files/figure-markdown_github/time-1.png" alt="Weekend Commute Time"/><img src="/images/lab4_blogpost_files/figure-markdown_github/time-2.png" alt="Weekday Commute Time"/></center>
 
-### Convenience
+## Convenience
 
 This is a subjective category, but I created a scoring system for the topics. I've scored the travel types with a +1 or -1 to depending on whether it's convenient and flexible within the specified category or not.
 
@@ -75,8 +75,9 @@ Other Factors:
 
 --------------------------------------------
 
+## Putting it All Together
 
-Now looking at the price, time, and convenience factors together:
+Let's look at the price, time, and convenience factors together:
 
 
 <center><img src="/images/lab4_blogpost_files/figure-markdown_github/table1.png" alt="Table 1" /></center>
@@ -108,13 +109,14 @@ That being said, the analysis did slightly favour me keeping my car insured this
 <a href="https://giphy.com/gifs/ypJDAUdeiBZDy">SOURCE</a>
 </center>
 
+
 ----------------------------------------------------
+
 
 #### References:
 
-Google Maps data for driving vs. transit options to running spots we frequent: [Surrey Bend Park Driving](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Surrey+Bend+Park,+104+Avenue,+Surrey,+BC/@49.2258985,-123.2274779,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485d6cef33fbd01:0x86930b15b5c4ec4e!2m2!1d-122.7284123!2d49.1941758!3e0), [Surrey Bend Park Transit](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Surrey+Bend+Park,+104+Avenue,+Surrey,+BC/@49.2256347,-123.2285928,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485d6cef33fbd01:0x86930b15b5c4ec4e!2m2!1d-122.7284123!2d49.1941758!3e3), [Campbell Valley Park Driving](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Campbell+Valley+Regional+Park,+16+Avenue,+Langley,+BC/@49.1437448,-123.1948014,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485c6062b7e792d:0xd51f4184d46485b6!2m2!1d-122.6608212!2d49.0303964!3e0), [Campbell Valley Park Transit](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Campbell+Valley+Regional+Park,+16+Avenue,+Langley,+BC/@49.1576781,-123.1878853,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485c6062b7e792d:0xd51f4184d46485b6!2m2!1d-122.6608212!2d49.0303964!3e3), [Burnaby Lake Driving](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Burnaby+Lake,+Burnaby,+BC/@49.2555999,-123.1953396,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5486779ec98481d3:0x4bb40fdefbc73000!2m2!1d-122.9441117!2d49.2420313!3e0), [Burnaby Lake Transit](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Burnaby+Lake,+Burnaby,+BC/@49.2637498,-123.1917166,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5486779ec98481d3:0x4bb40fdefbc73000!2m2!1d-122.9441117!2d49.2420313!3e3), [Burnaby Mountain Driving](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Burnaby+Mountain+Park,+Burnaby+Mountain+Pkwy,+Burnaby,+BC/@49.2700849,-123.1908451,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x548677a6363c6f03:0x5f34938923afee19!2m2!1d-122.9331187!2d49.2826282!3e0), [Burnaby Mountain Transit](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Burnaby+Mountain+Park,+Burnaby+Mountain+Pkwy,+Burnaby,+BC/@49.2723879,-123.1834531,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x548677a6363c6f03:0x5f34938923afee19!2m2!1d-122.9331187!2d49.2826282!3e3), [Derby Reach Driving](https://www.google.com/maps/dir/West+16th+Avenue+%26+Macdonald+Street/Derby+Reach+Regional+Park,+21801+Allard+Crescent,+Langley,+BC+V1M+3W1/@49.2028634,-123.160848,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485d30cadb1a875:0x98951fb4642ac568!2m2!1d-122.5945669!2d49.199814!3e0), [Derby Reach Transit](https://www.google.com/maps/dir/West+16th+Avenue+%26+Macdonald+Street/Derby+Reach+Regional+Park,+21801+Allard+Crescent,+Langley,+BC+V1M+3W1/@49.2284538,-123.1616701,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485d30cadb1a875:0x98951fb4642ac568!2m2!1d-122.5945669!2d49.199814!3e3)
+Google Maps data for driving/transit times:  [Surrey Bend](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Surrey+Bend+Park,+104+Avenue,+Surrey,+BC/@49.2258985,-123.2274779,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485d6cef33fbd01:0x86930b15b5c4ec4e!2m2!1d-122.7284123!2d49.1941758!3e0),  [Campbell Valley](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Campbell+Valley+Regional+Park,+16+Avenue,+Langley,+BC/@49.1437448,-123.1948014,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485c6062b7e792d:0xd51f4184d46485b6!2m2!1d-122.6608212!2d49.0303964!3e0),  [Burnaby Lake](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Burnaby+Lake,+Burnaby,+BC/@49.2555999,-123.1953396,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5486779ec98481d3:0x4bb40fdefbc73000!2m2!1d-122.9441117!2d49.2420313!3e0),  [Burnaby Mountain](https://www.google.com/maps/dir/W+16th+Ave+%26+Macdonald+St,+Vancouver,+BC+V6K+3C5/Burnaby+Mountain+Park,+Burnaby+Mountain+Pkwy,+Burnaby,+BC/@49.2700849,-123.1908451,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x548677a6363c6f03:0x5f34938923afee19!2m2!1d-122.9331187!2d49.2826282!3e0),  [Derby Reach](https://www.google.com/maps/dir/West+16th+Avenue+%26+Macdonald+Street/Derby+Reach+Regional+Park,+21801+Allard+Crescent,+Langley,+BC+V1M+3W1/@49.2028634,-123.160848,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673a866c49329:0xaaa502444c7a42b!2m2!1d-123.1684032!2d49.2577712!1m5!1m1!1s0x5485d30cadb1a875:0x98951fb4642ac568!2m2!1d-122.5945669!2d49.199814!3e0)
 
-Car Share Rates: [Evo Car Share](https://evo.ca/rates), [Car2Go](https://www.car2go.com/CA/en/vancouver/rates/), [Modo](https://www.modo.coop/plans/#page-submenu), [Zipcar](https://www.zipcar.ca/learn-more/vancouver?plan_key=evp-50)
+Car Share Rates: [Evo](https://evo.ca/rates),   [Car2Go](https://www.car2go.com/CA/en/vancouver/rates/),   [Modo](https://www.modo.coop/plans/#page-submenu),   [Zipcar](https://www.zipcar.ca/learn-more/vancouver?plan_key=evp-50)
 
-Other sources: [Gas Prices for Specific Routes](https://www.fueleconomy.gov/trip/), [Bus schedules](https://www.translink.ca), [ICBC Insurance Info](https://www.icbc.com/Pages/default.aspx)
-
+Other: [Calculate Gas Prices per Route](https://www.fueleconomy.gov/trip/),  [Transit schedules](https://www.translink.ca),  [ICBC Info](https://www.icbc.com/Pages/default.aspx)
