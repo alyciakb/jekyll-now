@@ -6,17 +6,17 @@ title: To Drive or Not to Drive
 <h3><p style="text-align:center;">Using Data Analysis to Decide Whether or Not to Keep My Car Insured While at UBC Vancouver</p></h3>
 
 
-My big question when moving to Vancouver for school is should I keep my car insured? It's common knowledge in BC that it is expensive to own a car in Vancouver and that the alternative transportation options in, public transit and car share, are fantastic. Plus, I have a nice commuting bike and some (limited) carpool options.
+My big question when moving to Vancouver for school is should I keep my car insured? It's common knowledge in BC that it's expensive to own a car in Vancouver and the alternative transportation options, such as public transit and car share, are fantastic. Plus, I have a nice commuting bike and some (limited) carpool options.
 
-The decision sounds easy, ditch the car! But for me, it's not that simple. I'm also a competitive runner and I train with a team based out of the Langley area. This means that ~3 times per week I meet up with them to run outside Vancouver. These are longer commutes and harder to get to via transit, so now the decision takes more thought.
+The decision sounds easy, ditch the car! But for me, it's not that simple. I'm also a competitive runner and I train with a team based out of the Langley area. This means that ~3 times per week I meet up with them to run outside Vancouver. These are longer commutes and harder to get to via transit. Now the decision takes more thought.
 
 Let's look at the three factors most important to me:
 
-1.  **Cost.** I am a student currently, so I have expenses but no income. I want to minimize my transportation costs.
+1.  **Cost.** I am a student currently and have expenses but little to no income. I want to minimize my transportation costs.
 
 2.  **Time.** Between school and running, I have a demanding schedule and want to minimize commute time.
 
-3.  **Convenience.** I want to be able to go where I want, when I want and have flexibility in my options.
+3.  **Convenience.** I want to be able to go where I want, when I want, and have flexibility in my options.
 
 
 Let's dive into each individually:
@@ -26,8 +26,8 @@ Let's dive into each individually:
 
 **Car Cost:**
 
-1.  Insurance - $125 (pleasure use only, maximum discounts).
-2.  Gas cost - $8.25 per roundtrip.
+1.  Insurance - $125 (pleasure use only, maximum discounts)
+2.  Gas cost - $8.25 per roundtrip
 3.  Maintenance - $180/year (3 oil changes per year at $60 each)
 
 **Transit Cost:** Due to mandatory UBC transit enrolment, I will say this fee is $0.
