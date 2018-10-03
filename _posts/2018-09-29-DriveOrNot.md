@@ -21,7 +21,7 @@ Let's look at the three factors most important to me:
 
 Let's dive into each individually:
 
-## Price
+## Cost
 
 
 **Car Cost:**
